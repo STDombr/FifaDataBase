@@ -1,0 +1,100 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>pics/players/Arcos.JPG</file>
+        <file>pics/players/BlackStar98.JPG</file>
+        <file>pics/players/Bombi1t0.JPG</file>
+        <file>pics/players/Boulevard_Prospect.JPG</file>
+        <file>pics/players/Chellovekk.JPG</file>
+        <file>pics/players/d1pseN.JPG</file>
+        <file>pics/players/DangerDim77.JPG</file>
+        <file>pics/players/dm1trena.JPG</file>
+        <file>pics/players/FEARGGWP.JPG</file>
+        <file>pics/players/Flewless_phoenix.JPG</file>
+        <file>pics/players/Foggy.JPG</file>
+        <file>pics/players/GenaD.JPG</file>
+        <file>pics/players/Hrusch.JPG</file>
+        <file>pics/players/Inquisitor.JPG</file>
+        <file>pics/players/JKey.JPG</file>
+        <file>pics/players/Kiker.JPG</file>
+        <file>pics/players/Kodak.JPG</file>
+        <file>pics/players/KravaRK.JPG</file>
+        <file>pics/players/Kray.JPG</file>
+        <file>pics/players/labotryas.JPG</file>
+        <file>pics/players/LaikingDast.JPG</file>
+        <file>pics/players/Lomik.JPG</file>
+        <file>pics/players/MeLToSiK.JPG</file>
+        <file>pics/players/Mihaluch.JPG</file>
+        <file>pics/players/mooneycb.JPG</file>
+        <file>pics/players/Mr.Jab.JPG</file>
+        <file>pics/players/nikkitta.JPG</file>
+        <file>pics/players/Olle.JPG</file>
+        <file>pics/players/orlovsky1.JPG</file>
+        <file>pics/players/Pablik.JPG</file>
+        <file>pics/players/Player.png</file>
+        <file>pics/players/Plevis.JPG</file>
+        <file>pics/players/present_players.txt</file>
+        <file>pics/players/sane4ek8.JPG</file>
+        <file>pics/players/Skromnuy.JPG</file>
+        <file>pics/players/slezaintima.JPG</file>
+        <file>pics/players/TAKA.JPG</file>
+        <file>pics/players/Upcake22.JPG</file>
+        <file>pics/players/Vetalmon.JPG</file>
+        <file>pics/players/vrico.JPG</file>
+        <file>pics/players/white_boy1927.JPG</file>
+        <file>pics/players/Zhukasik.JPG</file>
+        <file>pics/teams/Ajax.png</file>
+        <file>pics/teams/Arsenal.png</file>
+        <file>pics/teams/Atalanta.png</file>
+        <file>pics/teams/Atletico Madrid.png</file>
+        <file>pics/teams/Barcelona.png</file>
+        <file>pics/teams/Bayern.png</file>
+        <file>pics/teams/Belgium.png</file>
+        <file>pics/teams/Brazil.png</file>
+        <file>pics/teams/Chelsea.png</file>
+        <file>pics/teams/Crystall Palace.png</file>
+        <file>pics/teams/CSKA Moscow.png</file>
+        <file>pics/teams/Dortmund.png</file>
+        <file>pics/teams/Dynamo Kyiv.png</file>
+        <file>pics/teams/England.png</file>
+        <file>pics/teams/Everton.png</file>
+        <file>pics/teams/France.png</file>
+        <file>pics/teams/Germany.png</file>
+        <file>pics/teams/Gladbach.png</file>
+        <file>pics/teams/Inter.png</file>
+        <file>pics/teams/Italy.png</file>
+        <file>pics/teams/Lazio.png</file>
+        <file>pics/teams/Leicester.png</file>
+        <file>pics/teams/Leipzig.png</file>
+        <file>pics/teams/Leverkusen.png</file>
+        <file>pics/teams/Liverpool.png</file>
+        <file>pics/teams/Lokomotiv Moscow.png</file>
+        <file>pics/teams/ManCity.png</file>
+        <file>pics/teams/ManUnited.png</file>
+        <file>pics/teams/Milan.png</file>
+        <file>pics/teams/Napoli.png</file>
+        <file>pics/teams/Netherlands.png</file>
+        <file>pics/teams/Porto.png</file>
+        <file>pics/teams/Portugal.png</file>
+        <file>pics/teams/PSG.png</file>
+        <file>pics/teams/Real Madrid.png</file>
+        <file>pics/teams/Sevilla.png</file>
+        <file>pics/teams/Shakhtar Donetsk.png</file>
+        <file>pics/teams/Spain.png</file>
+        <file>pics/teams/Spartak Moscow.png</file>
+        <file>pics/teams/Team.png</file>
+        <file>pics/teams/Tottenham.png</file>
+        <file>pics/teams/Valencia.png</file>
+        <file>pics/teams/West Ham.png</file>
+        <file>pics/teams/Wolverhampton.png</file>
+        <file>pics/players/KRaftVK.JPG</file>
+        <file>DB/matches.db</file>
+        <file>pics/icons/authorSignIcon.png</file>
+        <file>pics/icons/cross.png</file>
+        <file>pics/icons/icon.ico</file>
+        <file>pics/icons/icon.png</file>
+        <file>pics/icons/questionMarkIcon.png</file>
+        <file>pics/players/Rus_1995_LAN.JPG</file>
+        <file>pics/icons/circle_blue.png</file>
+        <file>pics/icons/circle_red.png</file>
+    </qresource>
+</RCC>
